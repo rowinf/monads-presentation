@@ -24,7 +24,7 @@ Robert Irwin
 - underlie all existence
 - hierarchical
 - dormant < soul < spirit < monas monadum
-- has "personality"
+- come with "personality"
 
 [Monadology](https://en.wikipedia.org/wiki/Monadology)
 
@@ -76,4 +76,4 @@ end
 ```
 Decorate your return type
 
-
+### Code Time
