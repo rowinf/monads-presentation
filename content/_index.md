@@ -17,45 +17,26 @@ Robert Irwin
 
 ---
 
-### Leibniz's Monadology 1714
+## 1. Monads
 
 - immaterial substance
 - indivisible
 - underlie all existence
-- hierarchy
+- hierarchical
 - dormant < soul < spirit < monas monadum
+- has "personality"
 
 https://en.wikipedia.org/wiki/Monadology
 
 ---
 
-### Leibniz other exploits
+### More about Leibniz
 
-- Partially discovered calculus (with Issac Newton)
+- Partially credited with calculus (with Issac Newton)
 - Inspired Einstein's theory of relativity
 - May have been the first computer scientist
 
 https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
-
----
-
-### Plotinus 200 AD
-
-- Monads are "the one" or "the good"
-- Henosis is unification with the Monad.
-- Influenced early Christianity
-
-https://en.wikipedia.org/wiki/Plotinus
-
----
-
-### Plato 400BC
-
-- Is considered the founder of Western Civ
-- Wrote about "Forms" not monads
-- Abstract objects exist apart from individual minds
-
-https://en.wikipedia.org/wiki/Plato
 
 ---
 
@@ -67,6 +48,12 @@ https://en.wikipedia.org/wiki/Monad_(philosophy)
 
 ---
 
-My definition:
+# Now you know
 
-A monad is a foundational programming concept, sure to bring its users to a state of bliss
+{{< figure src="8o2ow4.jpg" >}}
+
+---
+
+# New definition:
+
+A monad is a basic unit of programming logic with "personality"
